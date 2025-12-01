@@ -35,3 +35,9 @@ We also have a linter configured with some basic rules to keep our code clean:
 ```
 npm run lint
 ```
+
+And now we have tests
+
+```
+npm run test
+```

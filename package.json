@@ -4,6 +4,7 @@
     "type": "module",
     "scripts": {
         "solve": "node runner.js",
+        "test": "node --test tests/",
         "lint": "eslint src",
         "lint:fix": "eslint src --fix"
     },
