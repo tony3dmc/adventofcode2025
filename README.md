@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-This repo contains my solutions for the Advent of Code 2025 challenge. This year, I'm using Javascript for my solutions.
+This repo contains my solutions for the Advent of Code 2025 challenge. This year, I'm using Javascript for my solutions. I'm not using any AI-assistance for puzzle solutions or test writing, but I did get some help to ensure my `runner.js` was robust - just for convenience.
 
 ## Project Structure
 
